@@ -1,5 +1,12 @@
 # Assistente PGD CENP
 
+## Acesso ao projeto
+
+- **Página do projeto:** https://yugolemom.github.io/assistente-pgd-cenp-publico/
+- **Abrir o Assistente PGD CENP no ChatGPT:** plugin://assistente-pgd-cenp@openai-curated-remote?remotePluginId=plugins_6afefebbe8c481919bae7ef094b13bba
+
+Se o acesso direto ao assistente não abrir, entre no ChatGPT e procure por **Assistente PGD CENP** na área de GPTs ou recursos disponíveis, caso esteja habilitado para sua conta.
+
 ## Sobre o projeto
 
 O **Assistente PGD CENP** é uma ferramenta de apoio que utiliza inteligência artificial para ajudar servidores e colaboradores a organizar suas atividades e preparar informações para o Plano de Trabalho no contexto do Programa de Gestão e Desempenho (PGD).
