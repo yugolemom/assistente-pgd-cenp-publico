@@ -3,7 +3,7 @@
 ## Acesso ao projeto
 
 - **[Acessar página do projeto](https://yugolemom.github.io/assistente-pgd-cenp-publico/)**
-- **[Abrir Assistente PGD CENP no ChatGPT](plugin://assistente-pgd-cenp@openai-curated-remote?remotePluginId=plugins_6afefebbe8c481919bae7ef094b13bba)**
+- **[Abrir Assistente PGD CENP no ChatGPT](https://chatgpt.com/plugins/plugins_6afefebbe8c481919bae7ef094b13bba)**
 
 Se o acesso direto ao assistente não abrir, entre no ChatGPT e procure por **Assistente PGD CENP** na área de GPTs ou recursos disponíveis, caso esteja habilitado para sua conta.
 
