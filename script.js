@@ -1,4 +1,5 @@
 (() => {
+  document.documentElement.classList.add("js");
   const menuButton = document.querySelector("[data-menu-toggle]");
   const navigation = document.querySelector("#primary-nav");
 
