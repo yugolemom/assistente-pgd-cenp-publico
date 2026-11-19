@@ -41,7 +41,7 @@ Não insira dados pessoais sensíveis, credenciais, informações sigilosas ou d
 - [Termos de Uso](https://yugolemom.github.io/assistente-pgd-cenp-publico/termos.html)
 - [Suporte e feedback](https://yugolemom.github.io/assistente-pgd-cenp-publico/suporte.html)
 
-## Sobre o projeto
+## Independência do projeto
 
 Projeto independente de apoio informativo, sem vínculo oficial ou representação do Governo Federal, Ministério da Saúde ou CENP.
 
