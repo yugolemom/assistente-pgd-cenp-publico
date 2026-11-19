@@ -177,7 +177,7 @@ img, svg { max-width: 100%; }
 .prompt-text {
   margin: 0; padding: 17px; border: 1px solid var(--line);
   border-radius: 12px; background: #f6f9fb; color: #344b5a;
-  font: .92rem/1.7 inherit; white-space: pre-wrap; overflow-wrap: anywhere;
+  font-family: inherit; font-size: .92rem; line-height: 1.7; white-space: pre-wrap; overflow-wrap: anywhere;
 }
 .copy-button {
   min-height: 43px; padding: 9px 13px; border: 1px solid var(--line);
@@ -243,13 +243,13 @@ img, svg { max-width: 100%; }
 @media (max-width: 680px) {
   .container { width: min(var(--container), calc(100% - 34px)); }
   .header-inner { min-height: 68px; gap: 10px; }
-  .menu-toggle { display: inline-flex; align-items: center; gap: 8px; }
-  .primary-nav {
+  .js .menu-toggle { display: inline-flex; align-items: center; gap: 8px; }
+  .js .primary-nav {
     display: none; position: absolute; top: calc(100% + 1px); left: 0; right: 0;
     padding: 12px 20px 18px; flex-direction: column; align-items: stretch; gap: 0;
     background: white; border-bottom: 1px solid var(--line); box-shadow: 0 14px 24px rgba(18,48,74,.08);
   }
-  .primary-nav.is-open { display: flex; }
+  .js .primary-nav.is-open { display: flex; }
   .primary-nav a { padding: 11px 3px; border-bottom: 1px solid #edf1f4; }
   .primary-nav a:last-child { border-bottom: 0; }
   .hero-grid { padding-block: 49px; }
