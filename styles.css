@@ -243,6 +243,8 @@ img, svg { max-width: 100%; }
 @media (max-width: 680px) {
   .container { width: min(var(--container), calc(100% - 34px)); }
   .header-inner { min-height: 68px; gap: 10px; }
+  html:not(.js) .header-inner { flex-wrap: wrap; padding-block: 12px; }
+  html:not(.js) .primary-nav { width: 100%; flex-wrap: wrap; justify-content: flex-start; gap: 11px 16px; }
   .js .menu-toggle { display: inline-flex; align-items: center; gap: 8px; }
   .js .primary-nav {
     display: none; position: absolute; top: calc(100% + 1px); left: 0; right: 0;
