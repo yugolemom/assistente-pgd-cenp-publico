@@ -1,40 +1,38 @@
-# Assistente PGD CENP — Site público
+# Assistente PGD CENP
 
-Website estático de apresentação do projeto independente **Assistente PGD CENP**, com informações sobre finalidade, uso responsável, privacidade, termos e suporte.
+## Sobre o projeto
 
-## Páginas
+O **Assistente PGD CENP** é uma ferramenta de apoio que utiliza inteligência artificial para ajudar servidores e colaboradores a organizar suas atividades e preparar informações para o Plano de Trabalho no contexto do Programa de Gestão e Desempenho (PGD).
 
-- `index.html`: apresentação e orientações de uso
-- `privacidade.html`: política de privacidade
-- `termos.html`: termos de uso
-- `suporte.html`: canal de feedback via GitHub Issues
+A proposta é tornar o planejamento do trabalho mais simples, claro e estruturado, apoiando o usuário desde a descrição inicial de suas atribuições até a organização de atividades, entregas e resultados esperados.
 
-## Publicação
+## O que o assistente oferece
 
-O site pode ser publicado pelo GitHub Pages:
+- Orientação passo a passo para preparar o Plano de Trabalho.
+- Apoio para organizar atribuições, atividades e entregas.
+- Ajuda na redação e revisão de descrições de trabalho.
+- Estruturação de metas e resultados esperados.
+- Consolidação das informações para revisão antes do registro institucional.
 
-1. Repository **Settings → Pages**
-2. Build and deployment: **Deploy from a branch**
-3. Branch: **main**
-4. Folder: **/(root)**
-5. Save
+## Para quem é
 
-Após a publicação, verificar o endereço atribuído pelo GitHub Pages e testar todas as páginas.
+Destina-se a pessoas que precisam organizar ou preparar informações relacionadas ao Plano de Trabalho no PGD, especialmente no contexto de atividades administrativas, técnicas e institucionais.
 
-## Escopo e limitações
+## Como começar
 
-- Site estático, sem backend, banco de dados, cadastro ou formulário.
-- O botão de acesso direciona à página geral do ChatGPT; não é um deep link para um GPT específico.
-- Não há analytics ou rastreamento próprio configurado.
-- O conteúdo gerado por IA deve ser revisado por pessoa responsável antes de uso em sistema oficial.
-- Não inserir informações sensíveis, sigilosas ou restritas.
+Acesse o Assistente PGD CENP pela página de apresentação e siga a conversa orientada. Você pode começar descrevendo seu contexto de trabalho e pedir ajuda para construir o plano por etapas.
 
-## Independência
+Exemplo de início:
 
-Projeto independente, não oficial e sem representação institucional do Governo Federal, Ministério da Saúde ou CENP.
+> Quero preparar meu Plano de Trabalho do PGD. Faça perguntas uma por vez para entender minhas atribuições, atividades, entregas e resultados esperados. Ao final, organize as informações em uma versão clara para eu revisar.
 
-## Desenvolvimento
+## Uso responsável
 
-Desenvolvedor: Hugo Lima  
-Escopo de publicação: Brasil  
-Projeto sem pagamentos, compras ou monetização integrada.
+O assistente é uma ferramenta de apoio. As respostas geradas devem ser revisadas pelo usuário e adequadas às normas, orientações da instituição, pactuações com a chefia e requisitos do sistema oficial. Não insira informações sigilosas, sensíveis ou restritas.
+
+## Sobre
+
+Projeto independente de apoio informativo, sem vínculo oficial ou representação do Governo Federal, Ministério da Saúde ou CENP.
+
+**Desenvolvedor:** Hugo C. Lima  
+**Contato:** hugolima.to@gmail.com
